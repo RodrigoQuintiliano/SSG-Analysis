@@ -27,4 +27,7 @@ The analysis focuses on the following business goals:
     * 6 csv files"
 
 Tableau Link: 
-    https://public.tableau.com/app/profile/rodrigo.quintiliano/viz/SSG-TableauAnalysis/Dashboard1?publish=yes
+https://public.tableau.com/shared/8PZTZ829C?:display_count=n&:origin=viz_share_link
+
+Presentation Link (Canva):
+https://canva.link/lbn3ljjwpfijfqt
